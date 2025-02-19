@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&display=swap');
+
+*{
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Quattrocento", serif;
+}
+
+body {
+  margin: 0;
+  background: #3f3f33;  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* 
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
